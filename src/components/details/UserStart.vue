@@ -1,6 +1,6 @@
 <template>
     <div>
-        <h1>User Start</h1>
+        <h2>User Start</h2>
         <ul>
             <router-link
                     to="/user/1"

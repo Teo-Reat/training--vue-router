@@ -1,6 +1,6 @@
 <template>
     <div>
-        <h1>Home Page</h1>
+        <h2>Home Page</h2>
         <p>
             Nachos loaf has to have a large, sweet noodles component.
             C'mon, arg.
